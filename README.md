@@ -8,7 +8,7 @@ Severe Acute Respiratory Syndrome (SARS) outbreak which happened in 2003 affecte
 
 The [dataset](https://www.kaggle.com/datasets/imdevskp/sars-outbreak-2003-complete-dataset) is about the number of cases and deaths of people who suffered from the Severe Acute Respiratory Syndrome (SARS) outbreak which happened in 2003 which affected people in different places of the world. This dataset serves as to find a best fit model on how viewing a specific  feature that correlates to a target feature provides insights based on the data. The aim of using a dataset such as this is to use it for Linear Regression to forecast how many deaths may or have occured.
 
-# SARS-CoV Dashboard
+## Dashboard
 
 <p align="center">
   <img src="Dashboard.png" alt="rust" width="800">
