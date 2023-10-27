@@ -11,5 +11,5 @@ The [dataset](https://www.kaggle.com/datasets/imdevskp/sars-outbreak-2003-comple
 ## Dashboard
 
 <p align="center">
-  <img src="Dashboard.png" alt="rust" width="800">
+  <img src="Dashboard.png" alt="rust" width="700">
 </p>
